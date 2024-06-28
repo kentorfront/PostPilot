@@ -116,11 +116,11 @@ nav{
 .header-left{
     display: flex;
     flex-direction: column;
-    margin-top: 130px;
+    margin-top: 230px;
 }
 
 .header-right{
-    margin-left: 200px;
+    margin-left: -60px;
     margin-top: 60px;
 }
 
@@ -128,6 +128,7 @@ nav{
     font-size: 80px;
     font-weight: 600;
     color: #2E2F35;
+    width: 780px;
 }
 
 span{
@@ -173,6 +174,9 @@ span{
     gap: 10px;
 }
 
+.shopify{
+    color: #2E2F35;
+}
 
 /* blocks */
 
@@ -978,7 +982,7 @@ span{
     cursor: pointer;
 }
 
-.shopify:nth-child(2){
+.shopify1{
     color: white;
 }
 
